@@ -1,5 +1,5 @@
 {
-    "name": "your-name-here/Stock",
+    "name": "joao/Stockcakephp",
     "description": "Stock plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
